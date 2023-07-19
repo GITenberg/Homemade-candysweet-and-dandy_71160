@@ -1,0 +1,31 @@
+_repo: Homemade-candysweet-and-dandy_71160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-07-10'
+identifiers:
+  gutenberg: '71160'
+language: en
+pgterms:marc905: 20210719152636anonymous
+pgterms:marc906: '1973'
+pgterms:marc907: US
+production_note: Bob Taylor, Lisa Corcoran, Stephen Hutcheson and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bBest Foods, Inc., $c1973.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Homemade candy—sweet and dandy
+url: http://www.gutenberg.org/ebooks/71160
